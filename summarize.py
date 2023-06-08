@@ -17,3 +17,4 @@ ai_response = response.choices[0].message.content
 
   # /n returns the information on a new line
 print("summarized text:\n\n", ai_response)
+#test
